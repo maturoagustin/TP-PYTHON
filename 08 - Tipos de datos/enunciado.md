@@ -1,0 +1,3 @@
+1. Escribe un programa que pida al usuario su nombre y edad, y luego imprima un mensaje que diga "¡Hola, [nombre]! Tienes [edad] años". Utiliza la función type para verificar que el tipo de dato de la edad es un entero.
+
+2: Solicita al usuario que ingrese un valor cualquiera. Luego, muestra el valor ingresado entre backticks y el tipo de dato que corresponde al valor ingresado usando la función `type`.
